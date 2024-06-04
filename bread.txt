@@ -6,6 +6,7 @@ Ingredients:
     - salt
     - water
     - yeast
+    - sugar
 
 Instructions:
     - mix Ingredients
