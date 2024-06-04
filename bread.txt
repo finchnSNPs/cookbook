@@ -6,3 +6,9 @@ Ingredients:
     - salt
     - water
     - yeast
+
+Instructions:
+    - mix Ingredients
+    - knead for 20 minutes
+    - prove for 1 hour
+    - bake at 425 F for 45 minutes
